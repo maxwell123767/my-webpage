@@ -86,7 +86,7 @@ export default function Portfolio() {
             <div className="hero-image-section">
               <div className="hero-image">
                 <div className="image-circle">
-                  <img src="/public/images/profile.png" alt="Maxwell Mwendwa" />
+                  <img src="/images/profile.png" alt="Maxwell Mwendwa" />
                 </div>
               </div>
             </div>
@@ -232,7 +232,7 @@ export default function Portfolio() {
           <div className="projects-grid">
             <div className="project-card">
               <div className="project-image">
-                <img src="/public/images/notifyhub.jpg" alt="NotifyHub" />
+                <img src="/images/notifyhub.jpg" alt="NotifyHub" />
                 <div className="project-overlay">
                   <a href="https://notifyhub.netlify.app" target="_blank" rel="noopener noreferrer" className="project-visit-btn">View Project →</a>
                 </div>
@@ -255,7 +255,7 @@ export default function Portfolio() {
 
             <div className="project-card">
               <div className="project-image">
-                <img src="/public/images/attendiq.jpg" alt="AttendIQ" />
+                <img src="/images/attendiq.jpg" alt="AttendIQ" />
                 <div className="project-overlay">
                   <a href="https://attendiq-app.netlify.app" target="_blank" rel="noopener noreferrer" className="project-visit-btn">View Project →</a>
                 </div>
@@ -278,7 +278,7 @@ export default function Portfolio() {
 
             <div className="project-card">
               <div className="project-image">
-                <img src="/public/images/femcollege.png" alt="FEM Leadership College Website" />
+                <img src="/images/femcollege.png" alt="FEM Leadership College Website" />
                 <div className="project-overlay">
                   <a href="https://femleadershipcollege.co.ke" target="_blank" rel="noopener noreferrer" className="project-visit-btn">View Project →</a>
                 </div>
