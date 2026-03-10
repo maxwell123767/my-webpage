@@ -152,7 +152,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background: linear-gradient(135deg, rgba(59, 38, 33, 0.03) 0%, rgba(249, 115, 22, 0.03) 50%, rgba(11, 126, 140, 0.03) 100%);
+  background: var(--dark-bg);
 }
 
 .hero-container {
@@ -228,10 +228,10 @@ body {
   height: 500px;
   border-radius: 20px;
   overflow: hidden;
-  background: transparent;
+  background: var(--dark-bg);
   border: none;
   box-shadow: 0 0 30px rgba(249, 115, 22, 0.3);
-  filter: brightness(1.1) contrast(1.1);
+  filter: brightness(1.15) contrast(1.1);
 }
 
 .image-circle img {
