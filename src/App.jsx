@@ -86,7 +86,7 @@ export default function Portfolio() {
             <div className="hero-image-section">
               <div className="hero-image">
                 <div className="image-circle">
-                  <img src="/src/public/images/profile.png" alt="Maxwell Mwendwa" />
+                  <img src="./images/profile.png" alt="Maxwell Mwendwa" />
                 </div>
               </div>
             </div>
@@ -107,10 +107,10 @@ export default function Portfolio() {
               <div className="info-block">
                 <h3>FOLLOW ME</h3>
                 <div className="social-icons">
-                  
-                  <a href="https://twitter.com/maxwellmwendwa6" target="_blank" rel="noopener noreferrer" aria-label="Twitter"><Twitter size={18} /></a>
+                  <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><Github size={18} /></a>
+                  <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Twitter"><Twitter size={18} /></a>
                   <a href="https://linkedin.com/in/maxwell-mwendwa-3ab791286" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><Linkedin size={18} /></a>
-                  
+                  <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" aria-label="YouTube"><Mail size={18} /></a>
                   <a href="https://github.com/maxwell123767" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><Github size={18} /></a>
                 </div>
               </div>
@@ -151,11 +151,11 @@ export default function Portfolio() {
 
             <div className="about-stats">
               <div className="stat-card">
-                <h3>2</h3>
+                <h3>12</h3>
                 <p>Years of<br />experience</p>
               </div>
               <div className="stat-card">
-                <h3>10</h3>
+                <h3>150</h3>
                 <p>Successful<br />projects</p>
               </div>
             </div>
@@ -232,7 +232,7 @@ export default function Portfolio() {
           <div className="projects-grid">
             <div className="project-card">
               <div className="project-image">
-                <img src="/src/public/images/notifyhub.jpg" alt="NotifyHub" />
+                <img src="./images/notifyhub.jpg" alt="NotifyHub" />
                 <div className="project-overlay">
                   <a href="https://notifyhub.netlify.app" target="_blank" rel="noopener noreferrer" className="project-visit-btn">View Project →</a>
                 </div>
@@ -255,7 +255,7 @@ export default function Portfolio() {
 
             <div className="project-card">
               <div className="project-image">
-                <img src="/src/public/images/attendiq.jpg" alt="AttendIQ" />
+                <img src="./images/attendiq.jpg" alt="AttendIQ" />
                 <div className="project-overlay">
                   <a href="https://attendiq-app.netlify.app" target="_blank" rel="noopener noreferrer" className="project-visit-btn">View Project →</a>
                 </div>
@@ -278,7 +278,7 @@ export default function Portfolio() {
 
             <div className="project-card">
               <div className="project-image">
-                <img src="/src/public/images/femcollege.png" alt="FEM Leadership College Website" />
+                <img src="./images/femcollege.png" alt="FEM Leadership College Website" />
                 <div className="project-overlay">
                   <a href="https://femleadershipcollege.co.ke" target="_blank" rel="noopener noreferrer" className="project-visit-btn">View Project →</a>
                 </div>
